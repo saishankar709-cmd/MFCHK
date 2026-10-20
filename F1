@@ -1,0 +1,658 @@
+Mutual Fund Selection Framework — Version 1.0
+India-focused | Direct plans | Growth option | Long-term wealth creation | Evidence-based selection
+
+1. First, establish the correct investment foundation
+Before ranking funds, we need to separate three decisions that your notes sometimes combine:
+
+Financial security: Emergency savings, health insurance, family obligations and high-interest debt.
+
+Asset allocation: How much of your total investable money belongs in equity, debt and cash.
+
+Fund selection: Which specific schemes should fill those roles.
+
+A fund score cannot compensate for an unsuitable asset allocation. Even the best small-cap fund may be wrong for money needed in five years.
+
+Your notes describe two different financial situations: a possible ₹1 lakh monthly investment with a 5–10-year goal, and a starting-from-zero situation with family responsibilities. We should not automatically assume both descriptions remain current.
+
+For the framework itself, we'll keep the following rules:
+
+Emergency money is separate from long-term equity investments.
+
+Equity allocation depends on when the money is needed, not merely on your willingness to accept risk.
+
+Monthly SIPs are the default for regular salary contributions.
+
+Extra investments during market corrections are optional and must follow predefined rules.
+
+A fund recommendation must consider your existing portfolio, not just the fund's individual merits.
+
+2. Mandatory rejection filters — before scoring any fund
+These are the first filters. A fund should not become a finalist simply because its returns are impressive.
+
+Filter
+
+Rule for our framework
+
+Decision
+
+Goal suitability
+
+Match the fund's risk to the goal and withdrawal date
+
+Reject if unsuitable
+
+Scheme structure
+
+Verify category, investment mandate, open-ended status if required, exit load and restrictions
+
+Reject if incompatible
+
+Portfolio quality
+
+Investigate material credit, liquidity, concentration or governance concerns
+
+Reject or escalate
+
+Investment process
+
+Understand the strategy and investigate unexplained deviations
+
+Escalate if unclear
+
+Data quality
+
+Use comparable periods, appropriate benchmarks and reliable disclosures
+
+No final verdict without adequate evidence
+
+Portfolio fit
+
+Check existing exposure and concentration before adding the fund
+
+Reject if it worsens portfolio risk without a good reason
+
+Costs
+
+Include expense ratio, transaction-related costs where relevant, exit load and tax implications
+
+Compare net investor outcomes
+
+These are decision rules, not claims that every risk can be eliminated. SEBI's investor guidance similarly emphasises suitability, diversification, asset allocation, taxation and ongoing review. 
+
+SEBI Investor
++1
+
+Important: A newer fund should not automatically fail. If it lacks five years of history, we'll mark its long-term track record as unproven and rely more heavily on its process, portfolio and relevant evidence.
+
+3. The master scorecard — 100 points
+Your notes contain two slightly different weightings. I recommend consolidating them into one standard scorecard for diversified active equity funds, then adjusting it for other categories.
+
+Equity fund scorecard
+Score each criterion from 1 to 5.
+
+100
+Performance consistency
+
+Rolling returns, consistency across periods and market cycles.
+
+20%
+12 pts
+
+1 Poor3 Average5 Excellent
+3
+Risk-adjusted performance
+
+Sharpe, Sortino, volatility, alpha and beta interpreted together.
+
+15%
+9 pts
+
+1 Poor3 Average5 Excellent
+3
+Downside risk
+
+Maximum drawdown, downside capture and recovery behaviour.
+
+15%
+9 pts
+
+1 Poor3 Average5 Excellent
+3
+Portfolio quality and valuation
+
+Underlying business quality, valuation, earnings and concentration.
+
+15%
+9 pts
+
+1 Poor3 Average5 Excellent
+3
+Manager and investment process
+
+Tenure, repeatability, discipline and team stability.
+
+10%
+6 pts
+
+1 Poor3 Average5 Excellent
+3
+Costs and implementation
+
+Direct-plan TER, turnover, trading impact and tracking quality where relevant.
+
+10%
+6 pts
+
+1 Poor3 Average5 Excellent
+3
+Diversification and overlap
+
+Holdings, sector exposure, market-cap mix and duplication with your portfolio.
+
+10%
+6 pts
+
+1 Poor3 Average5 Excellent
+3
+Fund operations and capacity
+
+AUM, liquidity, operational quality and strategy capacity.
+
+5%
+3 pts
+
+1 Poor3 Average5 Excellent
+3
+Illustrative score based on your selected ratings
+
+60/100
+This is a scoring calculator, not an assessment of a real fund. Ratings must be supported by current data. A high total cannot override a failed mandatory filter.
+
+How we'll interpret the final score
+80–100: Strong candidate for further due diligence, subject to mandatory filters.
+
+70–79: Potential candidate; investigate weaknesses and alternatives.
+
+60–69: Weak or mixed case; normally not a priority.
+
+Below 60: Normally reject from the shortlist.
+
+These are our proposed internal thresholds, not industry standards. Scores will be relative to suitable peers, not to all mutual funds in India.
+
+Category-specific adjustments
+The master framework remains consistent, but the criteria and benchmarks change by fund type.
+
+Fund category
+
+What deserves extra emphasis
+
+Nifty 50 / Nifty 500 index
+
+Tracking difference, tracking error, TER, index methodology and replication quality
+
+Flexi-cap
+
+Manager skill, rolling returns, portfolio valuation, style consistency and overlap
+
+Value / contra
+
+Valuation discipline, value-trap risk, style cycles and portfolio quality
+
+Mid-cap / small-cap
+
+Liquidity, drawdowns, capacity, concentration, valuation and downside behaviour
+
+Debt
+
+Credit quality, duration, yield-to-maturity, issuer concentration, liquidity and interest-rate sensitivity
+
+Hybrid
+
+Equity/debt mix, rebalancing rules, downside risk, costs and tax treatment
+
+We won't rank a debt fund against an equity fund using the same return thresholds. They serve different purposes and carry different risks.
+
+4. Performance filters — measure skill, not just returns
+This is one of the most important parts of your framework.
+
+Metric
+
+What we will measure
+
+How we'll interpret it
+
+1-, 3-, 5- and 10-year returns
+
+CAGR, where history permits
+
+Context only; never the sole selection criterion
+
+3-year and 5-year rolling returns
+
+Median, average, range and percentage of periods beating benchmark
+
+Consistency across different entry dates
+
+Benchmark outperformance
+
+Annualised excess return over a suitable total-return benchmark
+
+Whether active management added value
+
+Category percentile
+
+Relative position against comparable funds
+
+Whether results are competitive within the category
+
+Alpha
+
+Benchmark-adjusted return using a consistent methodology
+
+Evidence of excess performance, not proof of skill by itself
+
+Beta
+
+Sensitivity to benchmark movements
+
+Whether market exposure matches the strategy
+
+Standard deviation
+
+Historical return variability
+
+Volatility relative to comparable funds
+
+Sharpe ratio
+
+Excess return per unit of total volatility
+
+Risk-adjusted performance
+
+Sortino ratio
+
+Excess return relative to downside deviation
+
+Downside-focused risk-adjusted performance
+
+Maximum drawdown
+
+Largest peak-to-trough decline
+
+Severity of historical losses
+
+Downside capture
+
+Relative performance in benchmark-decline periods
+
+How the fund behaved in falling markets
+
+Recovery period
+
+Time taken to regain a previous peak
+
+How long an investor may have waited to recover
+
+Rules for interpreting the metrics
+Compare the same periods, plan types and return frequencies.
+
+Use total-return benchmarks where appropriate, not price-only indices that exclude dividends.
+
+Use rolling-return distributions rather than one favourable start and end date.
+
+Examine performance under different market conditions, including corrections and recoveries.
+
+Attribute performance to the actual manager and investment process in place during the period.
+
+Separate genuine evidence of skill from favourable market exposure, sector bets, style cycles and luck.
+
+A fund with lower returns may still be preferable if it has materially lower downside risk and better fits your needs. Conversely, lower volatility is not automatically better if it results from a strategy that fails its investment objective.
+
+5. Fundamental analysis — look through the fund into its holdings
+A mutual fund is a portfolio of underlying securities. We must evaluate what the fund owns, not just the name of the scheme or its NAV.
+
+Equity portfolio checklist
+Area
+
+Criteria to examine
+
+Warning signs
+
+Valuation
+
+Portfolio P/E, P/B, earnings yield and historical valuation context
+
+High valuations unsupported by plausible earnings growth
+
+Business quality
+
+Profitability, return on equity/capital, cash-flow generation and competitive position
+
+Weak cash flow, deteriorating profitability or fragile business models
+
+Balance sheet
+
+Debt, interest coverage, leverage and refinancing needs
+
+High leverage or worsening debt-servicing capacity
+
+Earnings
+
+Earnings growth, revisions, sustainability and cyclicality
+
+Price appreciation far ahead of earnings fundamentals
+
+Concentration
+
+Top holdings, top sectors, group exposures and effective diversification
+
+A few positions dominate the fund's outcome
+
+Portfolio changes
+
+New purchases, exits, turnover and changes in style
+
+Unexplained strategy drift or persistent performance chasing
+
+Market-cap exposure
+
+Large-, mid- and small-cap allocation
+
+Risk profile materially different from the intended role
+
+Liquidity
+
+Trading activity and liquidity of underlying stocks
+
+Holdings may be difficult to sell during stressed markets
+
+Your valuation rule
+We'll use valuation as a measure of prospective risk and reward, not as a mechanical buy/sell signal.
+
+For each equity fund, we should compare:
+
+Portfolio valuation against its own historical range, where reliable data exists.
+
+Valuation against the appropriate benchmark and category.
+
+Expected earnings growth against the price investors are paying.
+
+Business quality and financial resilience.
+
+The possibility that earnings estimates or valuation multiples will contract.
+
+For example, a portfolio with a P/E of 35 is not automatically worse than one with a P/E of 22. We need to determine whether the growth, profitability and risk justify that premium.
+
+A critical distinction: The NAV of a mutual fund is not its valuation. A ₹20 NAV is not inherently cheaper than a ₹200 NAV. The relevant valuation measures are those of the underlying assets.
+
+Additional rules for debt funds
+For debt funds, the equivalent fundamental analysis must examine:
+
+Credit ratings and actual issuer creditworthiness.
+
+Government, corporate and other instrument exposures.
+
+Issuer and group concentration.
+
+Yield to maturity, without treating it as a guaranteed investor return.
+
+Macaulay or modified duration and sensitivity to interest-rate changes.
+
+Liquidity, credit events, downgrade risk and redemption pressures.
+
+Expense ratio, exit loads, maturity profile and tax treatment.
+
+For your proposed opportunity reserve, capital stability and liquidity take priority over squeezing out an extra fraction of a percentage point in yield.
+
+6. Manager, process and fund-house analysis
+We'll assess the investment process rather than treating a star manager or a recent top-ranking fund as proof of quality.
+
+Manager tenure: Preferably examine at least five years of relevant experience with the same scheme or a genuinely comparable strategy, where available.
+
+Attribution: Establish whether the manager actually managed the portfolio during the performance period being evaluated.
+
+Process consistency: Check whether portfolio decisions follow the scheme's stated strategy.
+
+Team stability: Investigate significant departures, changes in decision-making responsibilities and investment-process changes.
+
+Risk discipline: Review position sizing, concentration, turnover and behaviour during market stress.
+
+Fund-house governance: Investigate material regulatory, compliance or operational concerns.
+
+Capacity: Determine whether fund size is affecting the strategy's ability to invest or exit efficiently.
+
+Your ₹10,000 crore small-cap AUM threshold will be retained as an investigation trigger, not a rejection rule. AUM alone cannot tell us whether a scheme has become too large. Underlying stock liquidity, market participation, portfolio concentration and the manager's implementation capacity matter more.
+
+7. Costs, operations and portfolio overlap
+We will generally compare Direct-Growth plans for long-term accumulation, assuming you do not need a distributor's services. Direct plans and regular plans invest in the same underlying scheme portfolio but have different expense structures. 
+
+Association of Mutual Funds in India
++1
+
+The operational review will cover:
+
+Total expense ratio and its history.
+
+Portfolio turnover and the potential impact of trading costs.
+
+Tracking error and tracking difference for index funds.
+
+Exit loads, redemption conditions and scheme restrictions.
+
+Relevant taxation at the time of investment and redemption.
+
+Fund age, assets under management and operational history.
+
+Scheme mergers, manager changes or material changes to investment objectives.
+
+Overlap analysis
+We should measure the actual holdings overlap between each proposed fund and your existing investments.
+
+For example:
+
+A Nifty 500 index fund plus a flexi-cap fund can create substantial large-cap duplication.
+
+A value fund can hold many of the same companies as a broad-market index.
+
+A value fund and a contra fund may express similar underlying investment bets.
+
+A sector fund can increase concentration even when you own several other schemes.
+
+We'll look at overlapping stock weights, sector exposures and common risk factors—not merely count the number of funds.
+
+Official sources such as AMFI provide scheme performance, NAV history, fund disclosures, AUM information and other research data. The latest AMC factsheet and portfolio disclosure will be important evidence in each assessment. 
+
+Securities and Exchange Board of India
++2
+
+8. Your NAV drawdown and market-correction filter
+We'll retain your proposed rule:
+
+Drawdown
+=
+(
+Current NAV
+Peak NAV
+−
+1
+)
+×
+100
+Drawdown=( 
+Peak NAV
+Current NAV
+​
+ −1)×100
+Use the highest relevant NAV over the preceding 52 weeks as an initial alert threshold, then examine the fund's longer-term drawdown history as well.
+
+Drawdown from 52-week high
+
+Framework action
+
+Less than 5%
+
+No correction alert from this filter
+
+5% to less than 10%
+
+Monitor
+
+10% to less than 15%
+
+Investigate the cause
+
+15% or more
+
+Conduct a deeper correction review
+
+These are operational alert levels, not proven buy signals.
+
+When a fund triggers the filter, we will ask:
+
+Has the benchmark fallen by a similar amount?
+
+Have the fund's underlying holdings become more attractively valued?
+
+Has the decline resulted from deteriorating earnings, credit events, liquidity problems or a change in investment strategy?
+
+Is the fund experiencing an ordinary correction or a more serious structural problem?
+
+Would an additional investment create excessive portfolio concentration?
+
+A 15% decline can create an opportunity, but it can also signal a deteriorating portfolio. We must establish which is more plausible before investing extra money.
+
+9. Future market conditions and risk–reward scenarios
+This is where your framework moves beyond historical fund rankings.
+
+Whenever we evaluate a fund for investment, we will build three forward-looking scenarios. These will be conditional estimates, not promises or precise market predictions.
+
+Bull scenario
+Earnings growth is strong, valuations remain supportive or expand, and liquidity conditions improve.
+
+We will estimate: plausible upside, the assumptions required to achieve it, and whether the fund is positioned to participate.
+
+Base scenario
+Earnings and valuations evolve without a major positive or negative surprise.
+
+We will estimate: a reasonable return range using earnings assumptions, valuation changes, income where relevant and costs.
+
+Bear scenario
+Earnings disappoint, valuations contract, interest rates rise unexpectedly or credit and liquidity risks emerge.
+
+We will estimate: plausible downside, possible recovery challenges and whether you could still meet your financial goal.
+
+For equity funds, we will consider earnings growth, valuation multiples, sector exposures and market conditions. For debt funds, we'll consider interest-rate changes, duration, credit spreads, defaults and liquidity.
+
+Where the data supports it, we'll also use historical stress periods and sensitivity analysis. We will clearly distinguish historical observations from model assumptions and future estimates.
+
+10. Your opportunity-fund strategy
+Your idea of accumulating money in debt funds and deploying it during market corrections is worth examining, but it needs explicit rules.
+
+The most important distinction is between your emergency reserve and your investment opportunity reserve. They must not be mixed.
+
+A practical framework is:
+
+Emergency reserve: Keep it available for genuine emergencies. Do not expose it to equity-market risk.
+
+Regular investments: Continue the planned SIP according to your long-term allocation.
+
+Opportunity reserve: Use only surplus money that can remain uninvested without compromising your goals.
+
+Correction trigger: Use market valuation, underlying fundamentals, drawdown and target asset allocation together.
+
+Deployment rule: Invest in predetermined stages instead of attempting to identify the exact market bottom.
+
+Maximum waiting period: Set a review date, such as 12 months, so that the opportunity reserve does not become a permanent market-timing strategy.
+
+For short-term opportunity money, we will compare overnight, liquid and money-market funds, as well as suitable bank deposits. We will assess liquidity, credit exposure, NAV volatility, redemption conditions and applicable taxation before selecting a vehicle.
+
+We will not assume that a debt mutual fund guarantees the capital value of your reserve.
+
+11. How we will use the framework for an actual fund
+Here is the repeatable process I propose.
+
+Define the investment role. Establish the objective, horizon, acceptable loss and target allocation.
+
+Create the eligible universe. Identify comparable schemes in the same category and plan type.
+
+Apply mandatory filters. Remove unsuitable schemes and investigate material red flags.
+
+Collect current evidence. Review official scheme documents, latest portfolio holdings, expense ratio, NAV history, benchmark data and relevant market conditions.
+
+Calculate comparable metrics. Analyse rolling returns, risk-adjusted performance, drawdowns, valuation, manager tenure and portfolio overlap.
+
+Score and compare. Apply the weighted scorecard to the shortlisted funds and explain material differences.
+
+Model risk and reward. Develop bull, base and bear scenarios with transparent assumptions.
+
+Make the decision. Recommend invest, shortlist, hold, or avoid, and explain the appropriate role and allocation.
+
+Set monitoring conditions. Establish review triggers for manager changes, strategy drift, persistent underperformance, rising risk, valuation changes and portfolio imbalance.
+
+Sources we will use
+We will prioritise primary disclosures and then use reputable research platforms to supplement analysis.
+
+AMFI — mutual fund research and scheme data 
+
+AMFI — scheme-wise portfolio disclosures 
+
+SEBI Investor — investment guidance 
+
+Value Research 
+
+Morningstar India 
+
+For every actual fund recommendation, I will check the latest available information rather than treating today's metrics as permanent. If a metric cannot be reliably calculated, I'll label it unavailable instead of inventing a number.
+
+12. The final fund report you can expect
+Every time you ask me to evaluate a specific scheme, the report will follow this structure:
+
+Section
+
+What you'll receive
+
+Fund overview
+
+Category, mandate, benchmark, plan and intended role
+
+Financial suitability
+
+Fit with your horizon, liquidity needs and portfolio
+
+Historical performance
+
+Rolling returns, benchmark comparisons and consistency
+
+Risk analysis
+
+Volatility, drawdowns, downside capture and relevant category risks
+
+Fundamental analysis
+
+Portfolio quality, valuation, sector exposure and concentration
+
+Management analysis
+
+Manager tenure, process, stability and evidence of skill
+
+Cost and operational review
+
+TER, turnover, tracking quality, liquidity, exit load and taxation
+
+Portfolio overlap
+
+Duplication with your other investments
+
+Market outlook
+
+Bull, base and bear scenarios, with explicit assumptions
+
+Scorecard
+
+Weighted score, mandatory filters and unresolved concerns
+
+Final decision
+
+Invest, shortlist, hold or avoid, with reasons and monitoring triggers
+
+One final principle: the framework will help us make more disciplined decisions, but it cannot reliably predict the best-performing fund in advance. We will optimise for suitability, evidence, risk control and long-term outcomes—not chase a claim of guaranteed outperformance.
