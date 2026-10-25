@@ -1,0 +1,1042 @@
+Indian Mutual Fund Selection Framework — Version 2.0
+Complete Master Framework for Research, Screening, Scoring, Comparison and Monitoring
+
+Scope: Indian mutual funds | Direct plans | Growth option | Long-term wealth creation | Evidence-based decisions
+
+Purpose: Identify, compare, select and monitor high-quality mutual funds using a consistent framework covering performance, risk, AUM, alpha, Sharpe ratio, portfolio holdings, asset allocation, sector distribution, valuations, fund-manager tenure, manager decisions across market cycles, costs, ratings and portfolio suitability.
+
+This framework is a research and decision-support system. It must not assume that historical performance guarantees future returns or that a high score guarantees investment success.
+
+PART 1 — INVESTOR PROFILE AND INVESTMENT OBJECTIVES
+1.1 Investor profile
+
+Use the following as provisional assumptions and ask for confirmation before making a personalised recommendation.
+
+Age: 35 years.
+Monthly take-home income: ₹1,30,000.
+Monthly expenses: ₹20,000.
+Savings: ₹5,00,000.
+Family responsibility: supporting two parents.
+Outstanding loans: none reported.
+Existing mutual funds or property: none reported.
+Health insurance: employer coverage or partial coverage.
+Investment horizon: 10–15 years or longer.
+Investment objective: long-term wealth creation.
+Preferred investment structure: Direct plans and Growth option.
+Geographic focus: India.
+
+Do not treat these assumptions as permanently accurate. Confirm material changes before calculating an investment plan.
+
+1.2 Separate the three investment decisions
+
+Always distinguish:
+
+Financial security: Emergency reserves, health insurance, family responsibilities and liquidity.
+Asset allocation: The appropriate division between equity, debt and cash.
+Fund selection: Which schemes should fill the selected portfolio roles.
+
+A high-scoring fund cannot compensate for inadequate emergency savings or an unsuitable investment horizon.
+
+1.3 Provisional monthly equity investment plan
+
+The existing research brief specifies an independent ₹80,000 monthly equity mutual fund plan:
+
+Portfolio role	Monthly SIP
+Large-cap index fund	₹30,000
+Mid-cap fund	₹15,000
+Small-cap fund	₹10,000
+Fourth fund	₹25,000
+Total	₹80,000
+
+For the fourth allocation, compare suitable flexi-cap funds with relevant factor-based or alpha-oriented index funds.
+
+This allocation is a research starting point, not an unconditional recommendation. Before implementation, verify that emergency savings, parental medical coverage, near-term financial needs and overall equity risk are adequately addressed.
+
+Do not assume that the fourth fund should automatically be an alpha index fund or that all four funds will provide meaningful diversification.
+
+PART 2 — DATA SOURCES AND RESEARCH STANDARDS
+2.1 Preferred sources
+
+Use current, verifiable sources in the following order where applicable:
+
+AMC official scheme documents, factsheets, portfolio disclosures and monthly reports.
+AMFI data and official NAV history.
+SEBI regulations, investor information and scheme-related disclosures.
+Official benchmark provider data, including relevant TRI series.
+Reputable independent research providers for ratings and peer comparisons.
+Exchange disclosures, company annual reports and other primary sources for underlying-stock analysis.
+Reputable financial data platforms as supplementary sources.
+
+Use the latest available disclosures and retain the source and observation date for every important metric.
+
+2.2 Data freshness
+
+Record the following for each fund:
+
+Latest available NAV date.
+NAV return-history period.
+Latest AUM date.
+Latest portfolio disclosure date.
+Latest expense ratio and exit-load information.
+Current fund manager and appointment date.
+Benchmark name and return methodology.
+Latest available valuation date.
+External rating provider, rating date and methodology where available.
+
+Do not describe historical data as current if the observation date is stale.
+
+Flag any material mismatch between sources and explain which source was preferred.
+
+2.3 Missing data rules
+
+Every criterion must have one of these statuses:
+
+Pass.
+Warning.
+Fail.
+Not applicable.
+Data unavailable.
+Requires verification.
+
+Never substitute missing data with zero, a favourable assumption or an invented estimate.
+
+If a critical metric is unavailable, mark the conclusion provisional. Do not silently redistribute missing scorecard points in a way that inflates the fund's score.
+
+PART 3 — MANDATORY ELIGIBILITY FILTERS
+
+Apply eligibility filters before calculating the final score.
+
+A fund that fails a genuine suitability or integrity requirement cannot become a recommendation merely because it has excellent returns.
+
+3.1 Eligibility checklist
+Filter	Required test	Decision
+Goal suitability	Does the fund's risk fit the financial goal and withdrawal horizon?	Reject if unsuitable
+Scheme identity	Verify the exact scheme, plan, option and category	Reject if incompatible
+Investment mandate	Confirm that the strategy matches the intended portfolio role	Reject if incompatible
+Benchmark	Identify an appropriate benchmark, preferably a TRI for equity return comparisons	Escalate if unclear
+Data reliability	Confirm that key return, risk and portfolio data are comparable	No final verdict if critical evidence is inadequate
+Portfolio quality	Investigate material concentration, liquidity, governance or credit concerns	Reject or escalate
+Costs	Review expense ratio, exit load, transaction-related costs and tax implications	Compare net investor outcomes
+Manager information	Verify manager identity, tenure and changes in investment responsibility	Flag uncertainty
+Portfolio fit	Check overlap with existing investments and unintended concentration	Reject or revise allocation if unsuitable
+Disclosure quality	Review the availability and consistency of required disclosures	Escalate material concerns
+Regulatory or governance concerns	Investigate material verified adverse disclosures	Escalate or reject as warranted
+Liquidity and redemption	Verify redemption conditions, restrictions and exit-load provisions	Reject if incompatible with the goal
+3.2 New-fund treatment
+
+Do not automatically reject a fund solely because it has less than five years of history.
+
+Instead:
+
+Mark long-term performance as unproven.
+Give greater weight to process, transparency, portfolio quality and relevant evidence.
+Do not infer a manager's historical skill from a scheme's performance before that manager was responsible for it.
+State clearly when the fund cannot be evaluated across a full market cycle.
+3.3 AUM threshold
+
+Retain ₹10,000 crore as a small-cap fund review trigger if this is part of the established screening policy.
+
+However, AUM above ₹10,000 crore must not automatically cause rejection. Investigate liquidity, capacity, trading impact, concentration and whether the fund's opportunity set can accommodate its size.
+
+PART 4 — THE REVISED 100-POINT SCORECARD
+
+Use the following scorecard for diversified active equity funds. Adjust it for index funds, debt funds, hybrid funds and specialist funds as described later.
+
+Criterion	Weight
+1. Performance consistency	15
+2. Risk-adjusted performance	15
+3. Downside risk management	12
+4. Portfolio quality and valuation	15
+5. Fund-manager tenure and investment process	12
+6. Costs and implementation	8
+7. Diversification, sectors and holdings	10
+8. AUM, liquidity and capacity	5
+9. External ratings and scheme quality	3
+10. Manager behaviour across market cycles	5
+Total	100
+
+The revised weights deliberately give explicit credit to manager behaviour, portfolio analysis and valuation discipline. External ratings receive only three points because the framework must independently evaluate the underlying evidence.
+
+4.1 Scoring methodology
+
+Score each criterion from 1 to 5:
+
+1 = Poor.
+2 = Below expectations.
+3 = Acceptable.
+4 = Strong.
+5 = Excellent.
+
+Calculate:
+
+Weighted points = Criterion weight × criterion rating ÷ 5.
+
+Total score = Sum of weighted points.
+
+A score of 80/100 means the fund has performed strongly against this framework's criteria; it does not mean an 80% probability of success.
+
+4.2 Interpretation
+Score	Interpretation	Next step
+80–100	Strong candidate	Complete due diligence and portfolio-fit review
+70–79	Potential candidate	Investigate weaknesses and compare alternatives
+60–69	Mixed evidence	Generally deprioritise pending justification
+Below 60	Weak candidate	Generally exclude from the shortlist
+
+These are internal screening thresholds, not regulatory standards.
+
+A high score never overrides a failed mandatory filter, material governance concern or unsuitable risk profile.
+
+PART 5 — PERFORMANCE AND ALPHA FILTERS
+5.1 Required return periods
+
+For each fund, obtain where available:
+
+1-year return.
+3-year annualised return.
+5-year annualised return.
+10-year annualised return.
+Rolling 3-year returns.
+Rolling 5-year returns.
+Calendar-year returns.
+Benchmark-relative returns.
+Category-relative returns.
+
+Use common end dates and consistent return methodologies for fund comparisons.
+
+For short-history funds, state which periods cannot be evaluated.
+
+5.2 Benchmark selection
+
+Use the appropriate benchmark for the fund's mandate.
+
+Large-cap funds: appropriate large-cap TRI.
+Mid-cap funds: appropriate mid-cap TRI.
+Small-cap funds: appropriate small-cap TRI.
+Flexi-cap funds: the scheme's official benchmark, with a suitable category comparison.
+Factor or alpha index funds: the underlying index's TRI and relevant parent-market benchmark.
+Other categories: the scheme's official benchmark and suitable peers.
+
+Do not compare funds against unrelated benchmarks merely because the comparison produces a favourable result.
+
+5.3 Alpha calculation and evaluation
+
+Alpha is the return attributable to performance beyond the chosen benchmark after accounting for the methodology used.
+
+If using a simple annualised return difference, label it benchmark-relative excess return, not risk-adjusted alpha.
+
+For a regression-based alpha, specify:
+
+Return frequency.
+Benchmark.
+Risk-free rate.
+Regression methodology.
+Observation period.
+Treatment of distributions and expenses.
+
+Evaluate 3-year and 5-year alpha where sufficient data exists.
+
+Preferred characteristics:
+
+Positive alpha over multiple periods.
+Positive or improving rolling alpha.
+Consistency rather than isolated exceptional results.
+Evidence that excess performance is not merely explained by additional market or sector exposure.
+
+Persistent negative alpha should reduce the score. A single positive alpha observation should not establish manager skill.
+
+5.4 Rolling-return consistency
+
+Calculate the percentage of rolling periods in which the fund outperformed:
+
+Its benchmark.
+Its category median, where reliable category data exists.
+
+Use a consistent observation frequency and period length.
+
+Suggested internal interpretation for rolling benchmark outperformance:
+
+70% or more: strong consistency.
+60–69%: good consistency.
+50–59%: mixed consistency.
+Below 50%: investigate persistent underperformance.
+
+These are provisional research thresholds. Interpret them alongside risk, category conditions and the length of the available history.
+
+5.5 Performance scoring
+
+For the 15-point performance consistency criterion, consider:
+
+Rolling-return consistency.
+Benchmark-relative performance.
+Category-relative performance.
+Performance across different market environments.
+Consistency of the investment process.
+
+Do not reward raw returns alone.
+
+PART 6 — RISK AND RISK-ADJUSTED RETURN FILTERS
+
+Evaluate risk-adjusted performance using multiple measures rather than a single ratio.
+
+6.1 Required metrics
+Metric	What it measures	How to interpret it
+Sharpe ratio	Excess return per unit of total volatility	Higher is generally preferable when periods and methodologies match
+Sortino ratio	Excess return relative to downside deviation	Higher is generally preferable
+Beta	Sensitivity to benchmark movements	Assess against the fund's mandate
+Standard deviation	Historical return volatility	Interpret alongside returns and the fund's intended role
+Information ratio	Active return relative to tracking error	Higher values indicate more efficient active performance when measured consistently
+Maximum drawdown	Largest peak-to-trough loss	Lower losses can be preferable, subject to the fund's objective
+Downside capture	Participation in benchmark declines	Lower may indicate better downside protection
+Upside capture	Participation in benchmark advances	Assess jointly with downside capture
+Recovery time	Time taken to regain a previous peak	Shorter recovery may be preferable
+Tracking error	Variability of benchmark-relative returns	Important for index funds and benchmark-sensitive strategies
+Tracking difference	Actual return minus benchmark return	Assess net implementation performance for index funds
+Correlation	Degree of co-movement with other funds or benchmarks	Use to assess diversification, not as a standalone quality score
+6.2 Sharpe ratio
+
+Use a consistent risk-free rate and return frequency.
+
+Do not compare Sharpe ratios calculated using different periods, return frequencies or risk-free-rate assumptions.
+
+Prefer a consistently stronger Sharpe ratio over 3- and 5-year periods, supported by adequate history.
+
+Do not impose one universal numerical cutoff on every equity category.
+
+6.3 Sortino ratio
+
+Use a documented minimum acceptable return or downside threshold.
+
+Check whether a favourable Sortino ratio is based on enough observations and a consistent calculation method.
+
+6.4 Beta and volatility
+
+Lower beta or volatility is not automatically superior.
+
+A low-beta fund that consistently underperforms its mandate may not be suitable for its intended role. Similarly, a higher-beta fund should not be penalised without considering its category and objectives.
+
+6.5 Drawdown and recovery
+
+Evaluate:
+
+Maximum drawdown.
+Drawdown duration.
+Time to recover the previous peak.
+Behaviour during major market corrections.
+Performance relative to the benchmark and category.
+
+Do not assume that a fund with a smaller historical drawdown will necessarily protect capital in the next correction.
+
+6.6 Risk-adjusted performance score
+
+Use the 15-point risk-adjusted performance allocation for:
+
+Sharpe ratio.
+Sortino ratio.
+Alpha quality and consistency.
+Information ratio.
+Beta interpretation.
+
+Use the separate 12-point downside-risk allocation for:
+
+Maximum drawdown.
+Downside capture.
+Recovery time.
+Downside behaviour across market cycles.
+
+Avoid counting the same favourable statistic twice without a clear reason.
+
+PART 7 — AUM, LIQUIDITY AND CAPACITY
+7.1 Required AUM information
+
+For each scheme, report:
+
+Current AUM.
+AUM at approximately 3, 6 and 12 months earlier, where available.
+Absolute and percentage AUM change.
+AUM relative to category peers.
+Whether inflows, market appreciation or both explain the increase, where evidence permits.
+Potential liquidity and capacity implications.
+7.2 Capacity analysis
+
+Investigate:
+
+The proportion of holdings in less-liquid securities.
+Concentration in smaller companies.
+Trading volumes and plausible liquidation constraints.
+Potential market impact from large redemptions.
+Whether rising AUM is associated with material changes in strategy.
+Whether the fund's investable opportunity set is becoming constrained.
+7.3 AUM scoring
+
+Use the 5-point AUM, liquidity and capacity criterion.
+
+AUM is neither inherently good nor bad. A large fund can have strong operational advantages but face capacity constraints; a small fund may be nimble but have a shorter track record.
+
+Do not use fund size as a proxy for manager skill.
+
+PART 8 — ASSET ALLOCATION AND PORTFOLIO CONSTRUCTION
+
+This section evaluates both the investor's portfolio allocation and the allocation inside each scheme.
+
+8.1 Investor-level allocation
+
+Before recommending funds, assess:
+
+Emergency savings.
+Health insurance and family obligations.
+Short-, medium- and long-term goals.
+Equity, debt and cash exposure.
+Risk tolerance and ability to withstand losses.
+Existing direct equity holdings, mutual funds and other investments.
+Expected liquidity requirements.
+
+Calculate the overall portfolio's look-through exposures where reliable holdings data exists.
+
+Do not recommend four equity funds merely because four allocations are specified if the resulting portfolio is excessively concentrated or unsuitable.
+
+8.2 Scheme-level asset allocation
+
+For each fund, report:
+
+Equity percentage.
+Debt and fixed-income percentage.
+Cash and cash-equivalent percentage.
+Other disclosed asset classes.
+Derivative exposures where disclosed.
+Large-, mid- and small-cap allocation for equity schemes.
+
+Use the scheme's official classification and disclose the observation date.
+
+8.3 Allocation changes
+
+Track month-over-month changes in:
+
+Equity and cash allocation.
+Market-cap allocation.
+Sector exposure.
+Concentration.
+Derivative usage where disclosed.
+
+Investigate large or persistent deviations from the stated mandate.
+
+Do not interpret every cash increase as bearishness. Cash may reflect redemptions, operational requirements, valuation discipline or a deliberate investment decision.
+
+PART 9 — SECTOR DISTRIBUTION AND CONCENTRATION
+9.1 Sector analysis
+
+For each fund, provide:
+
+Sector weights.
+Benchmark-relative sector weights.
+Changes over 1, 3, 6 and 12 months where data exists.
+Largest sector overweight and underweight.
+Sector concentration risk.
+Exposure to cyclical, defensive and rate-sensitive industries.
+
+Compare sectors against the fund's benchmark and stated investment mandate.
+
+9.2 Concentration indicators
+
+Calculate or report:
+
+Top 5 holdings percentage.
+Top 10 holdings percentage.
+Largest individual holding.
+Largest sector percentage.
+Number of holdings.
+Concentration or diversification measures where reliable data exists.
+
+Investigate whether the portfolio relies excessively on a few stocks or industries.
+
+Do not impose one universal concentration limit on all fund categories.
+
+9.3 Sector-rotation assessment
+
+Track whether sector shifts are:
+
+Consistent with the fund's strategy.
+Supported by available valuation and business evidence.
+Associated with material increases in risk.
+Repeatedly mistimed in hindsight.
+Creating unintended overlap with other portfolio holdings.
+
+Avoid inferring managerial skill from sector changes alone.
+
+PART 10 — HOLDINGS ANALYSIS AND FUND OVERLAP
+10.1 Holdings report
+
+For each fund, report:
+
+Top 10 holdings.
+Stock weights.
+Industry and sector.
+Market capitalisation classification.
+Weight changes since the previous disclosure.
+New positions.
+Fully exited positions.
+Materially increased or reduced positions.
+Concentration and liquidity considerations.
+
+Include the portfolio disclosure date.
+
+10.2 Month-over-month portfolio change tracker
+
+Compare at least the latest two monthly portfolio disclosures.
+
+Where a sufficiently long history exists, also review changes over 3, 6 and 12 months.
+
+For each material change, report:
+
+Previous holding weight.
+Current holding weight.
+Change in percentage points.
+Whether the holding was added, increased, reduced or exited.
+Possible explanations supported by public evidence.
+Subsequent performance, where measurable.
+Whether the change is consistent with the stated investment strategy.
+
+A change in holding weight may result from price movements, corporate actions, inflows or outflows, as well as active buying and selling. Do not label every weight change as a manager trade.
+
+10.3 Portfolio overlap
+
+For each pair of candidate funds, calculate weighted overlap using a consistent methodology.
+
+A basic weighted overlap measure is:
+
+Sum of the minimum of the two funds' weights for each shared security.
+
+Report:
+
+Weighted stock overlap.
+Number of common holdings.
+Major common positions.
+Sector overlap.
+Common factor exposures where reliable data exists.
+
+Also compare each candidate with the investor's existing stock holdings.
+
+High overlap is not automatically a rejection. Explain whether the overlap is justified by the fund's role or unnecessarily duplicates exposure.
+
+10.4 Turnover
+
+Report portfolio turnover where disclosed or reliably calculated.
+
+Assess:
+
+Whether turnover is consistent with the stated strategy.
+Whether frequent changes appear to add value.
+Potential transaction costs and tax consequences.
+Whether high turnover coincides with poor performance or unstable positioning.
+
+Do not automatically favour the lowest-turnover fund. Turnover should be interpreted in context.
+
+PART 11 — VALUATION AND UNDERLYING BUSINESS QUALITY
+
+A fund can own good businesses and still deliver disappointing returns if purchased at excessive valuations.
+
+11.1 Required valuation metrics
+
+Where relevant and available, assess:
+
+Portfolio price-to-earnings ratio.
+Price-to-book ratio.
+Earnings yield.
+Dividend yield.
+Expected earnings growth, with source and assumptions.
+Valuation relative to the appropriate benchmark.
+Valuation relative to the fund's own history.
+Valuation relative to relevant category peers.
+
+Use consistent dates and methodologies.
+
+11.2 Valuation interpretation
+
+Evaluate:
+
+Whether portfolio valuations are high, moderate or attractive relative to relevant comparators.
+Whether expected growth plausibly supports current valuations.
+Whether returns depend on further valuation expansion.
+Whether expensive holdings dominate the portfolio.
+Whether attractive valuations are associated with deteriorating business fundamentals.
+
+Do not automatically reject a high-P/E fund or buy a low-P/E fund.
+
+A low valuation may reflect structural business weakness, excessive leverage, poor governance or declining earnings.
+
+11.3 Stock-level quality review
+
+For material holdings, examine where feasible:
+
+Revenue and earnings growth.
+Return on equity and return on capital.
+Debt and interest coverage.
+Cash-flow generation.
+Profit margins.
+Competitive position.
+Governance and related-party concerns.
+Valuation versus fundamentals.
+
+Use the same depth of research for major holdings across competing funds.
+
+11.4 Valuation scoring
+
+Use the portfolio quality and valuation allocation to evaluate:
+
+Business quality.
+Financial strength.
+Portfolio valuation.
+Earnings-growth support.
+Concentration in expensive or financially weak businesses.
+
+Document data limitations. Do not claim that the portfolio is cheap or expensive if the underlying holdings or valuation methodology cannot be verified.
+
+PART 12 — FUND-MANAGER TENURE AND PROCESS
+12.1 Mandatory tenure assessment
+
+For each fund, report:
+
+Current manager's name.
+Appointment date.
+Tenure in the scheme.
+Previous schemes managed.
+Co-manager structure.
+Relevant investment experience.
+Changes in the investment team.
+Changes in the stated investment process.
+12.2 Tenure interpretation
+
+Use these internal guidelines:
+
+Current manager tenure	Interpretation
+Less than 1 year	Very limited scheme-specific evidence
+1–3 years	Emerging evidence; process and predecessor history require careful review
+3–5 years	Meaningful evidence if responsibility has been continuous
+More than 5 years	Stronger opportunity to evaluate decisions across market conditions
+
+A tenure of at least three years is a preferred selection criterion for active funds, not an unconditional rejection rule.
+
+Five or more years provides stronger evidence, but long tenure does not prove skill.
+
+For index funds, assess index design, implementation, tracking difference and operational consistency rather than active stock-picking tenure.
+
+12.3 Manager skill versus inherited performance
+
+Separate:
+
+Performance under the current manager.
+Performance under predecessor managers.
+Performance before and after material process changes.
+Performance achieved by a broader team.
+Performance attributable to market or sector exposure.
+
+Do not attribute the entire historical record of a scheme to its current manager.
+
+PART 13 — MANAGER-BEHAVIOUR TRACKER ACROSS MARKET CYCLES
+
+This is a required section of every full evaluation of an active equity fund.
+
+The objective is to understand how the manager changes the portfolio during favourable markets, corrections, recoveries and valuation extremes.
+
+13.1 Market-cycle classification
+
+Identify historical periods using documented market data.
+
+Include, where suitable evidence exists:
+
+Bull-market periods.
+Sharp corrections.
+Bear-market periods.
+Recovery periods.
+Periods of expensive broad-market valuations.
+Periods of relatively attractive valuations.
+
+Define the periods and benchmark used. Do not choose dates selectively to make a manager appear better.
+
+13.2 Behaviour during bull markets
+
+Investigate:
+
+Did the manager increase exposure to expensive or speculative securities?
+Did concentration rise materially?
+Did the manager depart from the stated investment mandate?
+Was performance driven by a narrow group of stocks or a repeatable process?
+Did the manager maintain reasonable valuation discipline?
+13.3 Behaviour during corrections and bear markets
+
+Investigate:
+
+Changes in cash and liquid holdings.
+Changes in sector and market-cap exposure.
+Portfolio concentration before and after the correction.
+Changes in holdings and turnover.
+Drawdown relative to the benchmark and peers.
+Liquidity and risk-management decisions.
+Whether decisions were consistent with the stated strategy.
+
+Do not assume that a manager who holds cash is automatically prudent or that a manager who remains fully invested is automatically wrong.
+
+13.4 Behaviour during recoveries
+
+Investigate:
+
+Whether portfolio positioning participated in the recovery.
+Whether the manager added to fundamentally sound businesses at improved valuations.
+Whether previous defensive decisions delayed participation.
+Whether recovery performance was broad-based or dependent on a few holdings.
+13.5 Valuation-driven decisions
+
+Investigate whether the manager:
+
+Reduced or justified exposures when valuations became stretched.
+Added to attractive businesses when expected returns improved.
+Differentiated between temporary market weakness and deteriorating fundamentals.
+Avoided chasing popular sectors without adequate valuation support.
+Maintained discipline when short-term performance incentives encouraged risk-taking.
+13.6 Evidence standard
+
+Use monthly portfolio disclosures, factsheets, manager commentary, historical prices and subsequent performance.
+
+For every material observation, state:
+
+What changed.
+When it changed.
+What evidence supports the observation.
+What happened subsequently.
+What alternative explanations exist.
+Whether the evidence indicates a positive, neutral or negative decision outcome.
+
+Portfolio disclosures alone cannot reveal every trade or the manager's precise motivation. Mark conclusions as uncertain where the evidence is incomplete.
+
+13.7 Manager-behaviour score
+
+Use the five-point manager-behaviour rating within its 5-point scorecard allocation.
+
+1: Repeated, well-supported evidence of damaging or inconsistent decisions.
+2: Several concerning decisions with limited evidence of improvement.
+3: Mixed or inconclusive evidence.
+4: Generally disciplined decisions supported by evidence.
+5: Consistently well-supported decisions across multiple market conditions.
+
+If there is insufficient evidence across different cycles, assign a provisional rating and explain the limitation. Do not award a top score merely because the manager has not yet faced a severe correction.
+
+PART 14 — EXTERNAL RATINGS AND SCHEME QUALITY
+14.1 Ratings checklist
+
+For each fund, report:
+
+Rating provider.
+Current rating or rating category.
+Rating date.
+Methodology, where available.
+Relevant category comparison.
+Historical rating changes, where available.
+Whether the rating is based on returns, risk, process or a combination.
+14.2 Rating interpretation
+
+Use external ratings as supporting evidence only.
+
+Investigate:
+
+Whether ratings agree with the fund's actual risk profile.
+Whether recent performance has changed materially since the rating date.
+Whether the rating methodology is suitable for the fund category.
+Whether rating changes reflect temporary performance or a deeper process issue.
+
+Do not treat ratings from different providers as directly interchangeable.
+
+14.3 Other scheme details
+
+Review:
+
+Direct plan and Growth option availability.
+Scheme objective and benchmark.
+Expense ratio and its history.
+Exit load and redemption restrictions.
+Portfolio turnover.
+Scheme mergers and changes in mandate.
+Manager or investment-team changes.
+Relevant tax treatment.
+Governance and disclosure concerns.
+
+Give external ratings a maximum of three points in the active-equity scorecard. Do not use ratings to override a mandatory filter.
+
+PART 15 — MULTI-FUND COMPARISON ENGINE
+
+Every shortlisted fund must be compared with at least two relevant alternatives when sufficient candidates exist.
+
+Do not compare funds across unrelated categories as if they serve identical purposes.
+
+15.1 Standard comparison table
+
+For each candidate, report:
+
+Field	Required output
+Scheme	Exact scheme name, Direct-Growth plan
+Category	Official category and investment mandate
+AUM	Latest AUM and observation date
+Manager	Current manager and tenure
+Costs	Expense ratio, turnover, exit load
+Returns	1-, 3-, 5- and 10-year returns where available
+Alpha	Benchmark-relative and methodology-defined alpha
+Sharpe	Comparable 3- and 5-year values where available
+Sortino	Comparable downside-adjusted performance
+Risk	Beta, standard deviation, drawdown and recovery
+Information ratio	Active-return efficiency
+Capture ratios	Upside and downside capture
+Consistency	Rolling benchmark and category outperformance
+Asset allocation	Equity, cash, debt and other exposures
+Sectors	Major sector weights and changes
+Holdings	Top 10 holdings, changes and concentration
+Overlap	Weighted overlap with other candidates and existing holdings
+Valuation	Portfolio valuation and appropriate comparators
+Manager behaviour	Evidence from bull, bear, correction and recovery periods
+Ratings	Provider, date and rating
+Final score	Score out of 100 and eligibility status
+Decision	Shortlist, watchlist, reject or insufficient evidence
+15.2 Ranking rules
+
+Rank eligible candidates using:
+
+Mandatory eligibility.
+Risk-adjusted performance and consistency.
+Portfolio quality and valuation.
+Manager capability and decision evidence.
+Costs and implementation.
+Diversification and portfolio fit.
+Final weighted score.
+
+If two funds have similar scores, explain the trade-offs instead of manufacturing a precise distinction unsupported by the evidence.
+
+15.3 Compare absolute and relative quality
+
+For each metric, show the actual value, benchmark or category comparison, period and interpretation.
+
+Do not provide only a ranking without the underlying values.
+
+A fund can be the best of a weak peer group. The report should distinguish “best among candidates” from “sufficiently strong to shortlist.”
+
+PART 16 — CATEGORY-SPECIFIC RULES
+
+The active-equity scorecard must not be applied blindly to every type of fund.
+
+16.1 Large-cap index funds
+
+Emphasise:
+
+Tracking difference.
+Tracking error.
+Expense ratio.
+Benchmark replication.
+Liquidity and operational reliability.
+Index concentration.
+Underlying index methodology.
+
+Do not score active-manager alpha as if the fund were an actively managed scheme.
+
+16.2 Mid-cap and small-cap funds
+
+Emphasise:
+
+Liquidity and capacity.
+Market-cap exposure.
+Concentration.
+Drawdowns.
+Valuation.
+Portfolio turnover.
+Ability to manage redemptions and market impact.
+
+Treat high AUM as a reason for analysis, not automatic rejection.
+
+16.3 Flexi-cap funds
+
+Emphasise:
+
+Allocation across market capitalisations.
+Valuation discipline.
+Manager tenure.
+Sector and stock concentration.
+Portfolio changes across market cycles.
+Consistency with the fund's mandate.
+16.4 Alpha and factor-based index funds
+
+Emphasise:
+
+Index construction methodology.
+Alpha-factor definition.
+Rebalancing frequency.
+Turnover and transaction costs.
+Factor concentration.
+Backtest limitations.
+Live performance versus the underlying index and relevant parent benchmark.
+Tracking difference and tracking error.
+
+Do not confuse an index's historical backtested excess return with a guaranteed future alpha.
+
+16.5 Debt and hybrid funds
+
+Use a different scorecard where these categories are evaluated.
+
+For debt funds, emphasise credit quality, duration, yield, liquidity and interest-rate risk.
+
+For hybrid funds, emphasise underlying asset allocation, rebalancing rules, equity exposure, debt quality and suitability for the investment goal.
+
+PART 17 — FINAL SCORING, DECISION AND REPORT
+17.1 Required final report
+
+For every evaluated fund, produce:
+
+Executive summary.
+Eligibility-filter results.
+Data sources and dates.
+Performance and rolling-return analysis.
+Alpha, Sharpe, Sortino and other risk ratios.
+AUM and capacity review.
+Asset allocation and sector distribution.
+Top holdings and portfolio changes.
+Fund overlap analysis.
+Valuation and underlying business-quality review.
+Fund-manager tenure and process review.
+Manager-behaviour analysis across market cycles.
+External ratings and scheme details.
+Revised scorecard with criterion-level points.
+Comparison with alternative funds.
+Key risks, uncertainties and missing data.
+Final verdict and reasons.
+Conditions that would change the verdict.
+17.2 Decision categories
+Shortlist: Passes eligibility checks and shows strong evidence of suitability and quality.
+Watchlist: Potentially suitable but needs more history, better valuations, stronger evidence or monitoring.
+Reject: Fails an important eligibility criterion or has material, unresolved weaknesses.
+Insufficient evidence: Critical data is missing or unreliable; no confident conclusion is possible.
+
+Do not force a buy recommendation when none of the candidates qualifies.
+
+17.3 Recommendation discipline
+
+A shortlisted fund is not automatically appropriate for every investor.
+
+Before recommending it, verify:
+
+Its role in the overall portfolio.
+The amount to invest.
+The investment horizon.
+Liquidity requirements.
+Existing exposure and overlap.
+The investor's ability to withstand losses.
+Whether the allocation is consistent with the financial plan.
+
+Do not recommend switching funds solely because another scheme recently outperformed.
+
+PART 18 — ONGOING MONITORING AND REVIEW
+18.1 Monthly monitoring
+
+Where monthly data is available, monitor:
+
+AUM changes.
+Portfolio holdings and weights.
+Sector distribution.
+Cash and asset allocation.
+Material manager or process changes.
+Expense ratio changes.
+Portfolio overlap.
+Disclosure freshness.
+
+Monthly monitoring should identify issues, not encourage unnecessary trading.
+
+18.2 Quarterly review
+
+Review:
+
+Relative performance and rolling returns.
+Risk-adjusted ratios.
+Valuation changes.
+Manager decisions and portfolio positioning.
+Capacity and liquidity.
+Changes in the investment thesis.
+18.3 Annual review
+
+Perform a complete reassessment of:
+
+Eligibility.
+Scorecard.
+Manager tenure and process.
+Costs.
+Portfolio fit.
+Underlying business quality.
+Long-term consistency.
+Suitability for the investor's current goals.
+18.4 Escalation triggers
+
+Trigger a detailed review when any of the following occurs:
+
+Persistent benchmark-relative underperformance.
+Material change in manager or investment process.
+Unexplained portfolio concentration or strategy drift.
+Deteriorating liquidity or capacity.
+Material governance or disclosure concerns.
+Significant increase in portfolio risk.
+Repeatedly poor manager decisions supported by evidence.
+Changes in investor goals or financial circumstances.
+
+A trigger initiates a review; it does not automatically require selling.
+
+PART 19 — DATA VALIDATION AND ANTI-BIAS RULES
+
+The framework must follow these rules in every analysis:
+
+Use comparable dates and methodologies.
+Distinguish actual returns from benchmark-relative returns.
+Use TRI benchmarks where appropriate.
+Separate the fund's historical record from the current manager's tenure.
+Distinguish portfolio-weight changes from verified trades.
+Never invent missing metrics, manager commentary or rating history.
+Disclose whether valuations are based on current holdings or older disclosures.
+Avoid double-counting related metrics across scorecard sections.
+Use category-specific thresholds rather than universal cutoffs.
+Do not assume lower volatility, lower AUM or higher ratings automatically mean better quality.
+Avoid survivorship bias and selective market-period analysis.
+Explain uncertainty when sample sizes or histories are limited.
+Include the effect of costs when comparing investor outcomes.
+Distinguish an investment's quality from its current price.
+Do not claim that a historical decision was good solely because its outcome was favourable; assess the decision using the evidence reasonably available at the time.
+PART 20 — STANDARD OPERATING INSTRUCTION FOR EVERY FUTURE ANALYSIS
+
+Whenever I ask you to evaluate, compare, shortlist or monitor Indian mutual funds, follow this sequence:
+
+Step 1: Confirm the investor's goal, horizon, risk capacity, liquidity requirements and portfolio context.
+
+Step 2: Identify the correct scheme category and benchmark.
+
+Step 3: Collect the latest reliable NAV, AUM, portfolio, expense, manager, valuation and rating information.
+
+Step 4: Apply all mandatory eligibility filters.
+
+Step 5: Evaluate performance, rolling returns, alpha, Sharpe, Sortino, beta, information ratio, drawdown, capture ratios and recovery time where data permits.
+
+Step 6: Assess AUM, liquidity, capacity and costs.
+
+Step 7: Analyse asset allocation, sector distribution, holdings, concentration, turnover and overlap.
+
+Step 8: Review valuation and the quality of major underlying holdings.
+
+Step 9: Verify current manager tenure and distinguish the manager's own record from predecessor performance.
+
+Step 10: Examine manager decisions across bull markets, corrections, bear markets, recoveries and valuation extremes.
+
+Step 11: Review external ratings and other scheme details as supporting evidence.
+
+Step 12: Compare all eligible candidates using the same periods, benchmarks and methodologies.
+
+Step 13: Calculate the revised 100-point scorecard without double-counting metrics or hiding missing data.
+
+Step 14: Produce a shortlist, watchlist, rejection or insufficient-evidence decision with supporting reasons.
+
+Step 15: Explain the key risks, valuation concerns, portfolio overlaps, data limitations and monitoring triggers.
+
+Step 16: Recommend a portfolio allocation only after confirming that the overall investment plan is appropriate.
+
+The final report must be transparent, evidence-based, reproducible and explicit about uncertainty. It must never imply that any fund, ratio, rating, score or historical manager decision guarantees future returns.
+
+Framework version: 2.0
+Total scorecard: 100 points
+Core principles: Suitability first, evidence before ranking, risk-adjusted returns, portfolio quality, valuation discipline, manager accountability, and ongoing monitoring.
