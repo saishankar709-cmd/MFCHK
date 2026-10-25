@@ -55,6 +55,58 @@ This allocation is a research starting point, not an unconditional recommendatio
 Do not assume that the fourth fund should automatically be an alpha index fund or that all four funds will provide meaningful diversification.
 
 PART 2 — DATA SOURCES AND RESEARCH STANDARDS
+
+PART 2A — FREE DATA SOURCE INTEGRATION AND VALIDATION
+2A.1 Primary screening platform
+
+Use Fundnama — Direct Large-Cap Funds as a preferred free discovery and preliminary analysis platform.
+
+Use Fundnama, where data is available, to collect:
+
+Complete category-wise scheme universe.
+Direct Plan and Growth option details.
+Historical and rolling returns.
+Benchmark-relative performance.
+Sharpe ratio, Sortino ratio, volatility and drawdowns.
+Expense ratio and AUM.
+Portfolio holdings, sector distribution and portfolio overlap.
+Available index valuation measures.
+
+Fundnama is a screening and research aid, not the final authority for investment decisions.
+
+2A.2 Complete-universe requirement
+
+Before shortlisting any fund category:
+
+Extract the complete list of eligible schemes.
+Verify scheme names, categories and plan variants.
+Deduplicate schemes by underlying scheme identity.
+Separate active funds, index funds and ETFs where applicable.
+Record the number of funds initially identified and the number remaining after each screening stage.
+Document the reason for every exclusion.
+
+Never select a small group of funds before establishing the complete eligible universe.
+
+2A.3 Source verification
+
+Cross-check material information against official AMC factsheets, monthly portfolio disclosures, AMFI data, SEBI disclosures and appropriate benchmark-provider data.
+
+Record the source, observation date and calculation methodology for each material metric.
+
+2A.4 Data coverage and calculation limitations
+Verify the benchmark used before comparing alpha or excess returns.
+Check the return frequency, risk-free rate and observation period used for Sharpe and Sortino calculations.
+Confirm whether AUM represents the latest available figure or a quarterly average.
+Verify the latest available portfolio disclosure and whether portfolio processing is supported.
+Treat missing holdings or overlap data as unavailable, not as evidence of poor portfolio quality.
+Independently verify manager tenure, investment-process changes, external ratings and historical manager decisions where these are not comprehensively documented.
+Use consistent periods and methodologies when comparing competing funds.
+2A.5 Final decision rule
+
+Use free research platforms for discovery and screening. Use primary disclosures to validate material facts. Apply the complete F2 eligibility filters and 100-point scorecard only after the data is sufficiently reliable.
+
+Do not invent missing values, silently substitute incompatible benchmarks or issue a definitive recommendation when critical evidence is unavailable.
+
 2.1 Preferred sources
 
 Use current, verifiable sources in the following order where applicable:
