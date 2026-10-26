@@ -1,0 +1,315 @@
+1. What the initial evidence tells us
+Fundnama's rolling-period analysis to 23 October 2026 provides an important warning: among the current and historical schemes in its sample, only 9 of 31 regular-plan large-cap funds beat the Nifty 100 TRI in more than half of their rolling five-year periods. The page separately reports 15 of 30 for Direct plans. 
+ 
+Fundnama
+That suggests we should prioritise consistency of benchmark outperformance, rather than simply picking funds with the highest 3-year or 5-year CAGR.
+2. Initial screening: eight funds worth investigating
+I cross-checked the available Direct-Growth comparison table, which reports returns and risk measures as of 23 October 2026. The following are research candidates, not funds that have passed F2. 
+ 
+RightAdvise
+Fund	3Y CAGR	5Y CAGR	3Y Sharpe	3Y Sortino	Initial observation
+Invesco India Largecap Fund	12.7%	9.2%	0.39	0.54	Strong recent returns and risk-adjusted metrics; verify longer-term consistency
+Bandhan Large Cap Fund	12.1%	8.7%	0.34	0.49	Strong 3-year metrics; investigate benchmark consistency
+DSP Large Cap Fund	10.0%	8.5%	0.26	0.38	Worth investigating risk and rolling returns
+Edelweiss Large Cap Fund	9.3%	8.6%	0.16	0.23	Moderate returns; requires a deeper consistency check
+Canara Robeco Large Cap Fund	9.5%	7.5%	0.18	0.26	Long enough history for a meaningful review; assess longer-term performance
+ICICI Prudential Large Cap Fund	9.6%	9.1%	0.21	0.29	Large established scheme; investigate risk and portfolio characteristics
+Nippon India Large Cap Fund	9.0%	10.5%	0.21	0.29	Stronger 5-year than 3-year return profile; verify rolling consistency
+HDFC Large Cap Fund	7.5%	8.4%	0.04	0.06	Lower recent risk-adjusted metrics; investigate before deciding
+
+Fund size, alpha and Sharpe ratio — initial comparison
+For F2, I recommend comparing 1-year, 3-year, 5-year and 10-year periods where sufficient history exists. Fund size is different: it is an amount measured at a particular date, so we should show current AUM and historical AUM separately.
+The latest comparable table I retrieved reports Direct-Growth scheme performance as of 23 October 2026. Its AUM figure is quarterly average AUM for July–September 2026, combining Direct and Regular plans; the Sharpe ratio is for the trailing three years. 
+ 
+RightAdvise
+Fund	Fund size (₹ crore)	Sharpe ratio (3Y)	Alpha (3Y)
+Invesco India Largecap	1,935	0.39	Not verified
+Bandhan Large Cap	2,090	0.34	Not verified
+DSP Large Cap	6,949	0.26	Not verified
+Edelweiss Large Cap	1,414	0.16	Not verified
+Canara Robeco Large Cap	16,700	0.18	Not verified
+ICICI Prudential Large Cap	79,000	0.21	Not verified
+Nippon India Large Cap	Not confirmed in this table	Not confirmed in this table	Not verified
+HDFC Large Cap	38,200	0.04	Not verified
+
+2. Primary-screen results
+The category medians in this dataset are 9.3% for 3-year CAGR, 7.4% for 5-year CAGR, and 14.8% for median 3-year rolling return. The 5-year maximum drawdown median is −18.1%. 
+ 
+MFIC · Integrato
+I would carry the following funds into the next research stage, grouping them by the reason they deserve further investigation. These are candidates for further analysis, not final selections.
+Fund	3Y CAGR	5Y CAGR	3Y rolling beat rate	Expense ratio	Initial assessment
+ICICI Prudential Large Cap Fund	9.6%	9.1%	85%	1.01%	Strong consistency signal; lower drawdown than category median
+Nippon India Large Cap Fund	10.1%	11.0%	77%	0.86%	Strong 5-year returns and rolling results
+Canara Robeco Large Cap Fund	9.5%	7.5%	96%	0.63%	Strong rolling beat rate and low expense ratio
+Invesco India Large Cap Fund	12.7%	9.2%	81%	0.91%	Strong recent returns; elevated volatility and drawdown need investigation
+Kotak Large Cap Fund	9.3%	7.6%	86%	0.76%	Strong rolling signal and relatively low cost
+Edelweiss Large Cap Fund	9.3%	8.6%	97%	0.97%	Strong rolling results; benchmark consistency needs confirmation
+SBI Large Cap Fund	8.0%	7.4%	74%	0.89%	Large established scheme; moderate performance evidence
+HDFC Large Cap Fund	7.5%	8.4%	70%	1.02%	Worth retaining for drawdown and long-history analysis
+
+Why these eight?
+	ICICI Prudential and Nippon India: their combination of longer history, rolling results and risk characteristics warrants deeper investigation.
+	Canara Robeco and Kotak: worth examining for consistency and cost efficiency.
+	Invesco India: has strong recent returns, but the volatility and drawdown profile means we must check whether those returns adequately compensate for risk.
+	Edelweiss: its rolling statistics look promising, but they need to be reconciled with the benchmark and historical-period analysis.
+	SBI and HDFC: retained as established comparison funds, even though their recent return statistics are less compelling than some alternatives.
+The source also flags Bank of India, Baroda BNP Paribas, ITI, Mahindra Manulife, Sundaram, quant and WhiteOak Capital with some encouraging rolling statistics. They should not be excluded just because they are absent from the eight above. Several have shorter histories, unusual rolling-period results or other factors that need closer examination.
+
+1. Manager-tenure and benchmark verification
+The next F2 stage reveals an important issue: a fund's historical returns can span several managers, so we must verify who actually managed the portfolio during each period.
+Official and scheme-level sources provide the following initial evidence.
+Fund	Manager-tenure evidence	Benchmark evidence	Preliminary status
+Invesco India Largecap	Hiten Jain since 1 Dec 2023; just under 3 years as of 25 Oct 2026	Nifty 100 TRI	Tenure preference not yet met. 
+ 
+March 2026
++1
+Canara Robeco Large Cap	Shridatta Bhandwaldar since July 2016; Vishal Mishra since June 2021	BSE 100 TRI	Strong tenure evidence. 
+ 
+Canara Robeco Digital Assets
+Nippon India Large Cap	Sailesh Raj Bhan since August 2007; Bhavik Dave since August 2024	Verify current benchmark mapping before comparison	Strong lead-manager tenure; newer co-manager. 
+ 
+Nippon India Mutual Fund
+ICICI Prudential Large Cap	Vaibhav Dusad since January 2021; other manager responsibilities changed in 2026	Nifty 100 TRI	Long-tenured manager exists, but portfolio responsibility changes need review. 
+ 
+ICICI Prudential AMC
++1
+Kotak Large Cap	Rohit Tandon since 22 January 2024	Nifty 100 TRI	Not yet at 3 years. 
+ 
+Regular Plan
+Bandhan Large Cap	Current team appointment reported from December 2024	BSE 100 TRI	Current-team tenure below 3 years. 
+ 
+NAV, Returns, More
+HDFC Large Cap	Rahul Baijal identified as manager; appointment date not yet verified	Nifty 100 TRI	Tenure verification pending. 
+ 
+HDFC Mutual Fund
+DSP Large Cap	Abhishek Singh identified in a factsheet; appointment date not verified	Requires current scheme-factsheet confirmation	Tenure and benchmark verification pending. 
+
+3. Benchmark consistency: what we can conclude now
+We should use each scheme's official Tier 1 benchmark as the main comparison, and the Nifty 100 TRI as a common category-level reference where appropriate.
+Fund	Benchmark evidence	Next test
+Invesco India	Nifty 100 TRI	Rolling 3Y/5Y excess returns
+Canara Robeco	BSE 100 TRI	Compare with BSE 100 TRI and common Nifty 100 TRI
+ICICI Prudential	Nifty 100 TRI	Rolling excess returns and manager-period attribution
+HDFC	Nifty 100 TRI	Separate pre- and post-manager-change performance
+DSP	Nifty 100 TRI	Reconcile returns with the current manager period
+Bandhan	BSE 100 TRI	Verify current team and benchmark-relative consistency
+Nippon India	Benchmark mapping needs current confirmation	Confirm the latest filed Tier 1 benchmark before scoring
+Kotak	Nifty 100 TRI	Evaluate performance under the current manager since January 2024
+
+2. Rolling-return consistency for our eight candidates
+The most comparable data currently available across these funds is a rolling three-year analysis from AMFI NAV history, as of 23 October 2026. Importantly, the provider explicitly uses a Nifty 50 price-return proxy for its beat rate—not each fund's official total-return benchmark. We can use this for preliminary screening, but not as the final F2 benchmark-consistency result. 
+ 
+MFIC · Integrato
+Fund	3Y rolling periods beating Nifty 50 proxy	Median 3Y rolling return	Worst 3Y rolling return	5Y maximum drawdown
+Canara Robeco	96%	15.6%	+0.6%	−17.3%
+Edelweiss	97%	15.0%	−2.4%	−17.1%
+Kotak	86%	15.4%	−4.7%	−16.6%
+ICICI Prudential	85%	16.1%	−5.1%	−15.4%
+Invesco India	81%	15.6%	−4.2%	−19.7%
+Nippon India	77%	16.6%	−5.9%	−15.4%
+HDFC	70%	14.7%	−7.3%	−16.4%
+Bandhan	70%	13.6%	−4.0%	−19.4%
+
+3. What these results tell us
+	Canara Robeco and Edelweiss: Their rolling beat rates are very strong in this preliminary comparison. We should verify their results against the official TRI benchmark before treating them as genuine outperformance leaders.
+	ICICI Prudential: Combines the highest median three-year rolling return among these eight with a relatively shallow five-year maximum drawdown.
+	Kotak: Shows a strong rolling beat rate and a comparatively moderate drawdown.
+	Nippon India: Has the highest median rolling return in the table, but its beat rate is lower than those of Canara Robeco and Edelweiss. A high median return and consistent outperformance measure different things.
+	Invesco India: Its five-year maximum drawdown is comparatively deep. We need to determine whether its higher returns compensate for the extra downside risk.
+	HDFC and Bandhan: Remain in the comparison, but their proxy benchmark beat rates are lower. Neither should be rejected on this metric alone.
+Notes :- 
+what are 3Y rolling periods beating Nifty 50 proxy , Median 3Y rolling return, 
+Worst 3Y rolling return, 5Y maximum drawdown ?
+These four metrics help us understand whether a large-cap mutual fund delivers consistent returns, beats the market, and controls losses. They measure different things, so we use them together in your F2 framework.
+Let's use simple examples.
+1. 3Y rolling periods beating the Nifty 50 proxy
+Meaning: The percentage of historical three-year investment periods in which a fund outperformed the Nifty 50 reference index.
+Suppose we examine a fund over 10 years. We calculate its return for successive three-year windows, shifting the start date each month.
+For example:
+Three-year window	Fund annualised return	Index annualised return	Beat index?
+Jan 2017–Jan 2020	13%	11%	Yes
+Feb 2017–Feb 2020	12%	12.5%	No
+Mar 2017–Mar 2020	14%	10%	Yes
+…	…	…	…
+If the fund beats the index in 80 out of 100 windows, its rolling beat rate is 80%.
+"Beat rate"="Windows beating index" /"Total windows" ×100
+
+How to interpret it:
+	80%: the fund beat the index in 8 out of 10 comparable windows, on average.
+	50%: it beat the index in half the windows.
+	30%: it beat the index in fewer than one-third of the windows.
+A higher percentage indicates more consistent historical outperformance, but does not guarantee future results.
+What does “proxy” mean? It means a substitute reference index. In our earlier table, it was a Nifty 50 price-return index rather than necessarily the fund's official total-return benchmark. For final F2 scoring, we should use the appropriate TRI benchmark because it includes dividends.
+2. Median 3Y rolling return
+Meaning: The middle annualised return across all the fund's historical three-year investment windows.
+Suppose the fund's rolling three-year returns are:
+6%, 9%, 11%, 14%, 25%
+The median is 11% — the middle number after sorting the returns.
+Why is this useful? A few exceptionally good periods can inflate a fund's average return. The median gives us a better sense of what a typical historical three-year period looked like. 
+ 
+Fundnama
++1
+For example, if Fund A has a median rolling return of 16% and Fund B has 13%, Fund A has historically delivered a higher typical return. However, we must compare their benchmark returns and risks too.
+3. Worst 3Y rolling return
+Meaning: The lowest annualised return the fund delivered across any historical three-year investment window.
+Suppose the worst three-year rolling return was −5%.
+That means there was at least one three-year period during which an investor's annualised return was −5%.
+For an illustrative ₹1,00,000 lump-sum investment, assuming exactly −5% CAGR for three years:
+"₹" 1,00,000(1-0.05)^3≈"₹" 85,737
+
+The investment would fall to approximately ₹85,737, excluding taxes and other investor-specific effects.
+Why it matters: It helps us understand how bad an extended holding period could have been historically. A less-negative worst return is generally preferable, provided the funds are compared over equivalent dates and with sufficient history.
+This is not the same as the fund's biggest one-day or one-month loss.
+4. 5Y maximum drawdown
+Meaning: The largest peak-to-trough decline in the fund's value during the last five years.
+Imagine the fund's NAV follows this path:
+ 
+Peak NAV
+₹150
+Lowest subsequent NAV
+₹105
+Maximum drawdown
+−30%
+The calculation is:
+"Drawdown"=("Trough NAV" -"Peak NAV" )/"Peak NAV" ×100
+
+In this example, the NAV falls 30% from ₹150 to ₹105.
+Why it matters: It shows the severity of a historical fall from a previous high. It helps us assess downside risk and whether an investor could tolerate the fund's behaviour during a market correction.
+A 5Y maximum drawdown of −20% means the largest peak-to-trough fall observed in the five-year measurement window was 20%. It does not mean the fund's five-year return was −20%.
+5. How to use all four metrics in F2
+Metric	Main question it answers	What we generally prefer
+3Y rolling beat rate	How often did the fund beat its benchmark?	Higher
+Median 3Y rolling return	What was a typical three-year annualised return?	Competitive with peers and benchmark
+Worst 3Y rolling return	How bad was the weakest three-year holding period?	Less negative, all else equal
+5Y maximum drawdown	How severe was the biggest peak-to-trough fall?	Smaller decline, all else equal
+These metrics should be assessed together. A fund may have strong returns but large drawdowns, or lower returns but better downside protection.
+
+Next F2 stage: official-benchmark performance
+We'll now move beyond the preliminary Nifty 50 proxy and test whether our shortlisted funds consistently outperform an appropriate Total Return Index (TRI).
+For this stage, I'll use Fundnama's large-cap comparison tool  as the starting point. It supports comparisons across different holding periods, Direct plans and the Nifty 100 TRI. Its published methodology uses historical NAVs and rolling periods rather than relying on one end date. 
+ 
+Fundnama
++1
+The objective is to answer three questions for each fund:
+	Does it beat its official benchmark over 3 and 5 years?
+	How often has it beaten the benchmark across rolling periods?
+	Is the outperformance strong enough to justify further research into risk, fees and portfolio quality?
+1. What the benchmark data shows so far
+Fundnama's individual fund pages provide detailed rolling-return comparisons against the Nifty 100 TRI. However, the search-accessible figures currently default to Regular plans, whereas our F2 universe is Direct-Growth. I won't mix these figures into the Direct-plan scorecard.
+The Regular-plan data still helps us identify what to verify next:
+Fund	5Y rolling windows beating Nifty 100 TRI	Preliminary interpretation
+Canara Robeco Large Cap Fund	59%	Moderate consistency; close to, but below, the 70% threshold
+Nippon India Large Cap Fund	68%	Stronger consistency; just below the 70% threshold
+Kotak Large Cap Fund	53%	Mixed benchmark consistency
+Bandhan Large Cap Fund	9%	Weak long-term benchmark consistency
+Source: Fundnama individual scheme pages, Regular-plan data, based on five-year holding periods ending in the decade to September 2026. These are diagnostic observations only and are not Direct-plan F2 results. 
+ 
+Fundnama
++3
+Canara Robeco and Nippon India merit particular attention in the Direct-plan verification. Bandhan's result is a warning that strong recent returns can coexist with weak long-term benchmark consistency.
+2. How we'll complete this stage correctly
+For each of our eight funds, the final Direct-Growth table must include:
+	3-year and 5-year CAGR versus the appropriate benchmark TRI.
+	Percentage of rolling 3-year and 5-year windows beating that benchmark.
+	Median and worst rolling returns.
+	Alpha, Sharpe ratio and maximum drawdown over consistent observation periods.
+	The exact data date and benchmark used.
+Fundnama's Direct-plan large-cap comparison  is the right starting point. Its category analysis reports that 14 of 29 eligible Direct-plan funds beat the Nifty 100 TRI in more than half of their historical five-year windows. That supports our decision to require a fund-by-fund consistency test rather than relying on recent CAGR alone. 
+ 
+Fundnama
+F2 decision at this stage: no final exclusions yet. We have useful benchmark evidence, but the correct Direct-plan figures must be verified before assigning scores or dropping candidates. After that, we can move to portfolio concentration, sector allocation, valuations and manager behaviour across market cycles.
+Next F2 stage: portfolio quality, concentration and sector exposure
+Now we'll examine what each fund actually owns, how concentrated its portfolio is, and whether it takes materially different sector and market-cap exposure from its peers.
+Fundnama provides monthly portfolio holdings, asset allocation, sector weights and portfolio overlap. Its latest portfolio files are not all from the same month, so the comparisons below use the reported disclosure dates and must be normalised before final scoring. 
+ 
+Fundnama
++1
+The first questions are:
+	Is the fund genuinely focused on large-cap companies?
+	Does it have excessive exposure to a few stocks or sectors?
+	Does the manager hold meaningful mid-cap exposure within a large-cap fund?
+	Are we buying different portfolios, or effectively buying the same stocks through multiple funds?
+1. Portfolio comparison: first seven funds with verified data
+The figures below come from Fundnama's monthly portfolio data, primarily dated 30 September 2026, with some portfolios dated 31 August 2026. Fundnama reports a category reference of approximately 58 stocks and 47.9% top-10 concentration for its 17 large-cap funds with portfolio data. 
+ 
+Fundnama
++6
+Fund	Number of stocks	Top 10 holdings	Large-cap share of stocks	Cash / equivalents
+Canara Robeco	61	46.8%	89.1%	2.3%
+ICICI Prudential	85	46.1%	88.2%	3.5%
+Nippon India	69	43.6%	81.6%	0.3%
+HDFC	47	52.7%	84.3%	0.9%
+Kotak	63	43.7%	85.1%	4.6%
+DSP	41	56.4%	92.1%	2.0%
+Invesco India	55	39.8%	80.5%	0.6%
+Source: Fundnama portfolio disclosures; figures rounded. “Large-cap share” is the share of stock holdings classified as large-cap, not a percentage of total fund assets. Asset-allocation figures may not sum to 100% due to rounding and other asset categories. 
+ 
+Fundnama
++6
+Initial observations
+	DSP: highest concentration among these seven, with 56.4% in its top 10 holdings and 41 stocks. That can increase the impact of individual stock decisions.
+	HDFC: also relatively concentrated, with 52.7% in the top 10 and 47 holdings.
+	Invesco India: the lowest top-10 concentration at 39.8%, but it has 8.4% of its stock portfolio classified as small-cap. We should investigate whether this exposure is intentional and consistent with its mandate.
+	Nippon India: very little cash at 0.3%, and a comparatively large mid-cap allocation. Its large-cap share is lower than several peers.
+	Canara Robeco and ICICI Prudential: both have substantial large-cap exposure, while ICICI holds many more stocks than the category reference.
+	Kotak: has relatively high cash and equivalents at 4.6%; we should examine whether this reflects temporary liquidity needs or a deliberate defensive position.
+These are review flags, not automatic pass/fail decisions.
+2. Sector concentration: where are the funds taking risk?
+Bank exposure is a useful first comparison because it is a large sector in Indian large-cap portfolios. The figures below show how the funds differ from the category reference of 23.9% in banks.
+Fund	Banks	Other notable sector exposures
+Canara Robeco	26.3%	Retailing 6.4%, automobiles 6.3%, pharmaceuticals 6.1%
+ICICI Prudential	25.4%	Automobiles 8.7%, petroleum products 6.2%, insurance 6.2%
+Nippon India	26.1%	Retailing 8.3%, IT software 8.3%, pharmaceuticals 7.5%
+HDFC	29.6%	Pharmaceuticals 8.2%, consumer durables 6.6%, finance 6.5%
+Kotak	23.4%	Petroleum products 7.0%, finance 6.3%, IT software 4.8%
+DSP	29.3%	Automobiles 11.1%, insurance 7.1%, telecom 6.5%
+Invesco India	18.4%	IT software 9.3%, finance 7.5%, automobiles 7.5%
+Source: Fundnama's latest reported portfolio breakdowns. Portfolio dates vary between 31 August and 30 September 2026. 
+ 
+Fundnama
++6
+The differences are meaningful:
+	HDFC and DSP have higher bank exposure than the category reference.
+	Invesco has materially lower bank exposure, with more weight in IT software, finance and automobiles.
+	DSP has notable automobile exposure at 11.1%, making its sector performance more sensitive to that industry's cycle.
+	Nippon's retailing and IT exposure distinguishes it from the more bank-heavy portfolios.
+A sector overweight is not automatically bad. We need to test whether the manager's allocation was sensible at the time, whether the sector's valuation was reasonable, and how that decision affected returns in different market conditions.
+3. Portfolio overlap: are two funds actually different?
+Portfolio overlap measures how much two funds hold in common, accounting for the weights of shared holdings.
+Fundnama reports 41.9% overlap between HDFC Large Cap and Nippon India Large Cap, based on the 31 August 2026 portfolios. 
+ 
+Fundnama
+That means a meaningful portion of the two portfolios is invested in the same stocks at similar weights. Owning both funds may therefore provide less diversification than their separate names suggest.
+For F2, we should calculate overlap for every pair in our final shortlist. This will help us distinguish funds that offer genuinely different portfolio approaches from funds that largely own the same companies.
+4. Valuation perspective: are the holdings expensive?
+We have not yet completed a reliable, fund-by-fund portfolio valuation comparison. We should not infer that a fund is expensive merely because it has performed well.
+For the next F2 test, we should collect:
+	Weighted-average portfolio P/E: the valuation of the companies held, weighted by their portfolio allocations.
+	Portfolio P/B: useful alongside P/E, particularly for financial companies.
+	Valuation versus benchmark: whether the fund's portfolio is more expensive than the Nifty 100 TRI or its official benchmark.
+	Valuation versus history: whether its valuation is high or low relative to its own historical range.
+	Growth and quality context: whether higher valuations are supported by earnings growth, profitability and balance-sheet quality.
+Fundnama provides historical NSE index valuation data, including P/E and P/B, which is useful for market context. But the index valuation is not a substitute for the weighted valuation of each fund's actual holdings. 
+ 
+Fundnama
++1
+5. Provisional portfolio-stage assessment
+Worth further investigation
+Canara Robeco and Kotak have relatively moderate top-10 concentration and a large-cap-heavy profile. Their valuations and manager decisions still need verification.
+Investigate concentration
+DSP and HDFC have higher top-10 concentration. We need to check the quality and valuations of their largest holdings.
+Investigate portfolio positioning
+Nippon and Invesco have relatively lower large-cap shares than several peers. We should examine their mid-cap exposure and sector positioning, rather than automatically penalising them.
+Still to verify
+Bandhan's current large-cap portfolio, the latest manager-specific portfolio changes, and the valuation profile of every fund.
+6. What comes next in F2?
+The next stage should focus on manager behaviour across good and bad market conditions.
+We will track monthly portfolio disclosures through market rallies, corrections and recoveries to examine:
+	What the manager bought, sold or materially increased or reduced.
+	Whether sector and stock weights changed before or after major market moves.
+	Whether the manager reduced exposure to deteriorating businesses or added to them.
+	Whether portfolio changes improved subsequent risk-adjusted performance.
+	Whether the decisions were consistent with the manager's stated investment process.
+We must avoid judging a decision solely by what happened afterwards; we need to consider the information available to the manager at the time.
+Current F2 status: portfolio composition has been screened preliminarily, but valuation quality and manager behaviour remain unscored. No fund should be eliminated yet. The next step is to investigate historical portfolio changes and their results, then combine that evidence with the benchmark and risk analysis before calculating final scores.
+
